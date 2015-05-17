@@ -1,2 +1,2 @@
 # Nanodegree-Worksession-1-
-index.html contains all my tml code so check it out and hope you enjoy 
+index.html contains all my html code so far so check it out and hope you enjoy 
